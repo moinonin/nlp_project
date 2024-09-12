@@ -14,4 +14,4 @@ from nlp.nlp_main import nlp_signal as nlp
 The training (expert) data were simulated with imit_signal and the language model was build with a series of these inputs.
 
 # Warning
-This is not financial advise. Regpredict is entirely on its preliminary stages. Use it at your own risk.
+This is not financial advise. NLP project is entirely on its preliminary stages. Use it at your own risk.
